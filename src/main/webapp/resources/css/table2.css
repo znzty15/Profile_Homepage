@@ -1,9 +1,7 @@
 @charset "EUC-KR";
 
 table.t-type01 {
-	text-align: center;
-
-	
+	text-align: center;	
 }
 
 table.t-type02 {
@@ -39,7 +37,6 @@ td.td-type01 {
 	color: #ffffff;
 	font-family: Arial;
 	font-weight: bold;	
-	
 }
 
 td.td-type02 {
@@ -48,7 +45,6 @@ td.td-type02 {
 	font-family: Arial;
 	font-weight: bold;
 	text-align : center;	
-	
 }
 
 td.td-type03 {
@@ -62,7 +58,6 @@ td.td-type03 {
 	border-bottom-width: 1px;
 	border-left-width: 2px;
 	border-right-width: 1px;
-	
 }
 
 td.td-type04 {
@@ -88,7 +83,6 @@ td.td-type04 {
 	background-color: #ffffff;
 	width: 220px;
 	padding: 5px;
-	
 }
 
 #button01 {
@@ -99,15 +93,12 @@ td.td-type04 {
 	padding: 5px;
 }
 
-#button01:hover {
-	
+#button01:hover {	
 	background-color: #ffffff;
 	color: #D5D5D5;
-	
 }
 
-textarea {
-	
+textarea {	
 	font-size: 20px;
 	color: #c0c0c0;
 	border: 1px solid;
@@ -115,7 +106,6 @@ textarea {
 	width: 220px;
 	padding: 5px;
 	font-weight: bold;	
-	
 }
 
 
