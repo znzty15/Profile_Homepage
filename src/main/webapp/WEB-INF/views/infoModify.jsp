@@ -52,7 +52,7 @@
                               <td><input id="input01" type="text" name="email" value="${memberDto.mEmail }"></td>
                            </tr>
                            <tr>
-                              <td class="td-type01">Join Date</td>
+                              <td class="td-type01">JOIN DATE</td>
                               <td><input id="input01" type="text" name="date" value="<c:out value="${fn:substring(memberDto.mDate, 0, 10)}" />" readonly></td>
                            </tr>
                            <tr>
